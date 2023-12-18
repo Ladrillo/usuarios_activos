@@ -1,4 +1,4 @@
-# Formatear usuarios
+# Proyecto Formatear Usuarios
 
 Declarar una función `formatearUsuarios` que toma un array de usuarios como su único argumento.
 
