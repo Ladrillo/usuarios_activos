@@ -11,7 +11,7 @@ La función retorna un nuevo array de usuarios _activos_, remodelados de la sigu
 ```js
 {
   id: "6fc5ec8d8c",
-  active: false,
+  active: true,
   f_name: "Alejandro",
   l_name: "Ramírez",
   year_birth: 1976,

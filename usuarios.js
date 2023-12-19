@@ -1,4 +1,4 @@
-var users = [
+const users = [
   {
     f_name: "Alejandro", l_name: "Ramírez", year_birth: 1976, married: false, fav_food_1: "Cocido Madrileño", fav_food_2: "Fabada Asturiana", fav_food_3: "Pisto", bio: "Alejandro, a wizard in the kitchen, is rumored to make Cocido Madrileño that can solve any problem.", id: "6fc5ec8d8c", active: false,
   },
